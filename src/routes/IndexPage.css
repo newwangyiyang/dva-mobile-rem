@@ -1,0 +1,9 @@
+@charset 'utf-8';
+.IndexPage h1 {
+  font-size: 30px;
+  line-height: 100px;
+}
+.IndexPage > img {
+  height: 200px;
+  width: 300px;
+}
